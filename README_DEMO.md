@@ -14,4 +14,4 @@ The complete, unrestricted source code (SPE v5.6), which includes the full set o
 
 **For full access, commercial use, and high-magnitude prime exploration, please inquire about licensing the complete Universal Prime Law (UPL) Intellectual Property.**
 
-* **Copyright Holder:** Richard Sardini / RAS Construction Concepts
+* **Copyright Holder:** Richard Sardini / RAS Construction Concepts / rsardinifb@gmail.com 704-924-0475
